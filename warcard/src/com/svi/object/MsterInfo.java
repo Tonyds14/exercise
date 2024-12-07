@@ -1,4 +1,4 @@
-package com.svi.warcard;
+package com.svi.object;
 
 public class MsterInfo {
 	private int mstrplyr;

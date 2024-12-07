@@ -1,8 +1,17 @@
-package com.svi.warcard;
+package com.svi.main;
 
 
 import java.io.*;
 import java.util.*;
+
+import com.svi.object.MsterInfo;
+import com.svi.object.RoundInfo;
+import com.svi.process.BuildConsoleMssg;
+import com.svi.process.DistributeCards;
+import com.svi.process.ProcessGame;
+import com.svi.process.ReadInputTextFile;
+import com.svi.process.ShuffleCards;
+import com.svi.process.ValidateUserInput;
 
 public class Main {
 	
