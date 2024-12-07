@@ -1,4 +1,4 @@
-package com.svi.warcard;
+package com.svi.process;
 import java.util.Scanner;
 
 public class ValidateUserInput {

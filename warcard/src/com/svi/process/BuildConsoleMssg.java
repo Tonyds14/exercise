@@ -1,6 +1,9 @@
-package com.svi.warcard;
+package com.svi.process;
 import java.util.ArrayList;
 import java.util.LinkedHashSet;
+
+import com.svi.object.MsterInfo;
+import com.svi.object.RoundInfo;
 
 public class BuildConsoleMssg {
 	

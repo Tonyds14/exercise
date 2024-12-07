@@ -1,6 +1,6 @@
-package com.svi.warcard;
+package com.svi.object;
 
-class RoundInfo {
+public class RoundInfo {
 	private String isuitnrank;
     private int suitSeq;
     private int rankSeq;

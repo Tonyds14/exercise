@@ -1,4 +1,4 @@
-package com.svi.warcard;
+package com.svi.process;
 
 public class DistributeCards {
 	private String[][] plyrcrds;
