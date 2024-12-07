@@ -30,7 +30,7 @@ public class ReadInputTextFile {
 		
 		String filePath = "input/input.txt"; 
 		try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
-			String line;
+			String line; 
 	        while ((line = br.readLine()) != null) {
 	        	StringTokenizer tokenizer = new StringTokenizer(line, ",");
 				while (tokenizer.hasMoreTokens()) {
