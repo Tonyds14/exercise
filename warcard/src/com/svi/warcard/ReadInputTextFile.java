@@ -39,10 +39,10 @@ public class ReadInputTextFile {
 				}
 
 			tokensCards = tokenList.toArray(new String[0]); //transfer data from tokenlist into tokenArray
-	        System.out.println("\nDeck before the shuffle ");
-	        for (String card : tokensCards) {
-	        	System.out.println(card);
-	      	}
+//	        System.out.println("\nDeck before the shuffle ");
+//	        for (String card : tokensCards) {
+//	        	System.out.println(card);
+//	      	}
 	          flgProcess = true;   
 	        }
 		 }catch (IOException e) {
@@ -50,9 +50,9 @@ public class ReadInputTextFile {
 	            flgProcess = false;  //if input text file is null, need to set flgProcess to false
 		 }
 		 
-		System.out.println("ReadInputTextFile: tokensCards");
-		String result = String.join(", ", tokensCards);
-        System.out.println(result);
+//		System.out.println("ReadInputTextFile: tokensCards");
+//		String result = String.join(", ", tokensCards);
+//        System.out.println(result);
 		
 	}
 		
