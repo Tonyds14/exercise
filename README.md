@@ -17,6 +17,8 @@ Player 4 reveals: C-5
  
 The player who gets all the cards of the deck in his hand wins. 
 
+- String, Arrays, StringTokenizer, LinkedHashSet, Comparator, Collections
+
 Mechanics:
 1.	There are 52 cards on the deck. The card values in descending order are:  
 •	suits: diamond, heart, spades, clubs
